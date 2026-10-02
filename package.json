@@ -122,7 +122,7 @@
 		"parse-duration": "2.1.6",
 		"patch-package": "8.0.1",
 		"prettier": "3.8.4",
-		"prettier-plugin-astro": "0.14.1",
+		"prettier-plugin-astro": "1.1.0",
 		"prettier-plugin-tailwindcss": "0.8.0",
 		"pretty-bytes": "7.1.0",
 		"react": "19.0.0",
